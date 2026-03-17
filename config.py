@@ -1,0 +1,3 @@
+GATEWAY_URL = "http://127.0.0.1:18789"
+GATEWAY_TOKEN = "a7fcd84946dc9c52d40076c3eea3bc659b8aa32a8aeb4818"
+AGENT_ID = "main"
